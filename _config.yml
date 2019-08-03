@@ -1,10 +1,12 @@
 title: Hale Inan Uslu # your name (or website title) here
 logo: "/images/img.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Graduate Alumni - UGA Computer Science
   <br><br>
-  Second description 
-  <br><br>
+  University of Georgia, Athens, GA
+  <br>
+  haleinanuslu@gmail.com
+  <br>
   <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
