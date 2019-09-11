@@ -11,7 +11,7 @@
   <p>Technologies: Python's Pandas library </p>
 </div>
 
-<b> - [Classification of user types in marijuana-related communications on Twitter]</b>
+<b> - [Classification of user types in marijuana-related communications on Twitter](https://github.com/halo91cs/Marujana_Project)</b>
 
 <p>As social media has become an emerging medium to share information in last decade, it has been used by individuals to express their opinions on issues concerning the public. While analysis of this data on social media enabled researchers and analysts to assess the public opinion, it introduced challenges to probable solutions. Legalization of usage of marijuana the collected social media data can be from ordinary personal users or non-personal users such as retail and media. Since we can accurately measure the public opinion on marijuana legalization based on the content of personal users, we need to separate them from non-personal accounts. In this study, I classify users on Twitter into two categories (personal and non-personal) using their profile images since it has been shown that profile picture is an important indicator of the type of a user. I have used an annotated dataset comprising Twitter users, of which are personal users. The dataset was annotated by domain experts in the field of drug abuse and epidemiology, through visiting user profiles on Twitter and looking at their tweets, profile information and profile pictures.</p>
 
