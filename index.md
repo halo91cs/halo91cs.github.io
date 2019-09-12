@@ -8,12 +8,10 @@
 <div>
   <div><img src="images/harassment.jpg?raw=true"/></div>
   <div><p>A great deal of still being researched on detection of hate speech, offensive, and aggressive behavior on social media. Existing work is mainly focused on user or tweet level analysis in detecting the harassing content. Even though, that kind of analysis has a huge impact on detecting toxic behaviour, they do not provide truly accurate analysis all the time due to the different intentions of the users. We introduce a novel approach that adopts interaction based analysis where we investigate harassing interactions rather than harassing tweets. We have observed that individual tweets do not provide enough evidence for toxic behaviour; hence aggregating tweets for each interaction provide context to make a determination.</p>
-  <p>In this project, I have detected online toxic behavior on social media platforms, performing creation, curation, filtering, and processing of a novel interaction-level dataset containing potentially toxic content, from raw Twitter data in Python</p>
+  <p>In this project, I have detected online toxic behavior on social media platforms, performing creation, curation, filtering, and processing of a novel interaction-level dataset containing potentially toxic content, from raw Twitter data in Python. I have also extracted emojis and urls from tweets to perform multi-modal analysis over emoji, and image data in interactions between users</p>
    
     
-    <p>
-      I have also extracted emojis and urls from tweets to perform multi-modal analysis over emoji, and image data in interactions between users
-    </p>
+    
     
   </div>
   <p>Technologies: Python's Pandas library </p>
